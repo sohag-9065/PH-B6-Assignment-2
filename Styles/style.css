@@ -13,10 +13,9 @@ body {
 
 .header-container {
     display: flex;
-    background-color: rgb(243, 93, 93);
     margin: 50px 8%;
     padding: 0;
-    background-color: #161616;
+    background-color: #170149;
     border-radius: 20px;
 
 }
@@ -41,7 +40,7 @@ body {
 }
 
 .header-details button {
-    background-color: red;
+    background-color: rgb(245, 104, 226);
     color: white;
     width: 112px;
     padding: 15px;
@@ -77,7 +76,7 @@ body {
 .main-navbar ul {
     width: 252px;
     height: 272px;
-    background-color: #161616;
+    background-color: #170149;
     border-radius: 10px;
     padding: 30px;
     margin: 0;
@@ -99,7 +98,7 @@ body {
 }
 
 #blog-link {
-    background-color: red;
+    background-color: rgb(245, 104, 226);
 }
 
 #blog-link a {
@@ -178,7 +177,7 @@ body {
 }
 
 .view button {
-    background-color: red;
+    background-color: rgb(245, 104, 226);
     color: white;
     padding: 20px 30px;
     border-radius: 10px;
@@ -187,7 +186,7 @@ body {
 
 /* footer-section start -------------------------------------- */
 .footer-section {
-    background-color: #161616;
+    background-color: #170149;
 
 }
 
